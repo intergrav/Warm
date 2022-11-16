@@ -1,0 +1,2 @@
+Mojang for the original textures; this is a modification to the textures, not a recreation
+ImageMagick for automation (mogrify)
